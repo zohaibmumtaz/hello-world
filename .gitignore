@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/hello-world/FileContentIndex
+/obj
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/hello-world/v17
