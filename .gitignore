@@ -7,3 +7,7 @@
 /.vs/VSWorkspaceState.json
 /.vs/slnx.sqlite
 /.vs/hello-world/v17
+/.vs
+/bin/Debug/net6.0
+/bin/Release/net6.0
+/wwwroot/img/backup imgs
